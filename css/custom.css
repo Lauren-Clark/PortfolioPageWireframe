@@ -1,0 +1,45 @@
+
+
+.header {padding: 50px 0 70px 0; 
+		margin-bottom: 10px;
+         background-image: url('../images/header2.webp');
+         background-size: cover; 
+         color: #FFF;}
+
+img {float:left;
+padding-right: 10px;
+padding-left: 5px;}
+
+.six.columns {
+	border: 2px solid black;
+	padding-top: 5px;
+	background-color: #16442a;
+	margin-bottom: 20px;
+	color: #FFF;
+}
+
+.six.columns h4 {font-size: 22px;
+}
+
+.twelve.columns {margin-top: 5px;
+	             text-align: center;
+	             font-style: italic;
+	      		}
+
+
+/* Mobile first queries */
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet */
+@media (min-width: 550px) {}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
